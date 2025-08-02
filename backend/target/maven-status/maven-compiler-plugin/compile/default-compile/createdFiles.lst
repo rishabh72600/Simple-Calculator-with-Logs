@@ -1,0 +1,4 @@
+com\example\calculatorlogger\controller\CalculationLogController.class
+com\example\calculatorlogger\repository\CalculationLogRepository.class
+com\example\calculatorlogger\model\CalculationLog.class
+com\example\calculatorlogger\CalculatorLoggerApplication.class
